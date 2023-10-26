@@ -5,4 +5,4 @@ para acessar usando o swagger pode ir nesse link
 <a href="https://springmysqlapi-escola-production.up.railway.app/swagger-ui/index.html">API REST Escola Generation</a>
 
 ou pode fazer requisições via postman com esse endpoint
-[https://springmysqlapi-escola-production.up.railway.app/](https://springmysqlapi-escola-production.up.railway.app/api/alunos)https://springmysqlapi-escola-production.up.railway.app/api/alunos
+https://springmysqlapi-escola-production.up.railway.app/api/alunos)https://springmysqlapi-escola-production.up.railway.app/api/alunos
